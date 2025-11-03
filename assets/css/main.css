@@ -1382,7 +1382,7 @@ section,
   margin-bottom: 1.5rem;
 }
 
-.resume .experience-section .experience-cards .exp-card .card-header .company-logo {
+ .company-logo {
   width: 50px;
   height: 50px;
   background: linear-gradient(135deg, var(--accent-color), color-mix(in srgb, var(--accent-color), #6c5ce7 20%));
