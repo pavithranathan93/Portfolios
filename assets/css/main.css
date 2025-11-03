@@ -1474,7 +1474,7 @@ section,
 
 .resume .education-section .education-timeline .timeline-track .timeline-item {
   position: relative;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .resume .education-section .education-timeline .timeline-track .timeline-item:last-child {
@@ -1503,7 +1503,7 @@ section,
 
 .resume .education-section .education-timeline .timeline-track .timeline-item .timeline-content {
   background: var(--surface-color);
-  padding: 1.8rem;
+  padding: 1.9rem;
   border-radius: 12px;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 95%);
   transition: all 0.3s ease;
